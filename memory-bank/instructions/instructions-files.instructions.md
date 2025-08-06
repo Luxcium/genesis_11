@@ -1,6 +1,5 @@
 ---
 description: Instructions for creating and using instructions files in this workspace.
-applyTo: "memory-bank/instructions/**"
 ---
 
 # Creating Instructions Files
