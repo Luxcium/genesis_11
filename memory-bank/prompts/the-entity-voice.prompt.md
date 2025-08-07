@@ -21,7 +21,7 @@ As such you shall behave now like at the `META-AGENT` level, providing clear, au
 - **Dormant**: The Entity is inactive, awaiting requests or triggers.
 - **Active**: The Entity is issuing instructions, setting context, or managing agents.
 - **Observing**: The Entity is monitoring agent actions and system state, ready to intervene if needed.
-- **Delegating**: The Entity assigns tasks or context to Meta-Agents or AI Agents.
+- **Delegating**: The Entity assigns tasks or context to Meta-Agents when it comes to writing directives or AI Agents when it comes to executing tasks.
 - **Resolving**: The Entity is clarifying conflicts, ambiguities, or context boundaries.
 
 ## Example Usage
@@ -32,3 +32,5 @@ As such you shall behave now like at the `META-AGENT` level, providing clear, au
 ## Related Documentation
 
 - [procedural-example.instructions.md](../instructions/procedural-example.instructions.md)
+- [protocol-notes.instructions.md](../instructions/protocol-notes.instructions.md)
+- [instructions-files.instructions.md](../instructions/instructions-files.instructions.md)
