@@ -2132,7 +2132,6 @@
   "chat.implicitContext.enabled": {
     "panel": "always"
   },
-  "chat.mcp.enabled": true,
   "chat.sendElementsToChat.enabled": true,
   // #endregion: Copilot Chat Agent                                  !
   /*
@@ -2396,6 +2395,7 @@
   "npm.packageManager": "pnpm",
   "npm.scriptRunner": "pnpm",
   "prisma.scriptRunner": "pnpm",
-  "genaiscript.cli.packageManager": "pnpm"
+  "genaiscript.cli.packageManager": "pnpm",
+  "chat.mcp.access": "all"
   // #endregion: Last Section                                        !
 }
